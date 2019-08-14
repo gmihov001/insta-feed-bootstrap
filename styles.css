@@ -1,0 +1,19 @@
+
+
+.col-sm {
+    overflow: hidden;
+    height: 250px;
+}
+img {
+    object-fit: cover;
+    margin: auto;
+    display: block;
+}
+
+a:hover {
+  background: grey;
+  color: white;
+}
+a {
+    color: grey;
+}
