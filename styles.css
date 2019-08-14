@@ -1,4 +1,9 @@
-
+#navbar {
+    position: fixed;
+}
+#navpills {
+    position: fixed;
+}
 
 .col-sm {
     overflow: hidden;
